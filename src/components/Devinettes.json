@@ -1,203 +1,248 @@
-{
-    "index" : 1,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 2,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 3,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 4,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 5,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 6,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 7,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 8,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 9,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 10,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 11,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 12,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 13,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 14,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 15,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 16,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 17,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 18,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 19,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 20,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 21,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 22,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 23,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 24,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 25,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 26,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 27,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 28,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 29,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 30,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 31,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 32,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 33,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 34,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 35,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 36,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 37,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 38,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 39,
-    "question": "",
-    "reponse": ""
-};
-{
-    "index" : 40,
-    "question": "",
-    "reponse": ""
-};
+[
+    {
+        "index" : 1,
+        "question": "Je suis toujours devant tout le monde, mais personne ne peut me voir. Qui suis-je ?",
+        "reponse": "L'avenir",
+        "explication": ""
+    },
+    {
+        "index" : 2,
+        "question": "J'ai 48 ans mais j'ai fêté mon anniversaire que 12 fois pourquoi ?",
+        "reponse": "29 février",
+        "explication": ""
+    },
+    {
+        "index" : 3,
+        "question": "Plus j'enleve, plus il grandit",
+        "reponse": "un trou",
+        "explication": "Un trou, car plus j'enleve de la terre plus le trou devient grand"
+    },
+    {
+        "index" : 4,
+        "question": "Quelle est la lettre suivante de cette suite (J F M A M J J A S O)",
+        "reponse": "N",
+        "explication": "la suite represente la premiere lettre des mois de l'année"
+    },
+    {
+        "index" : 5,
+        "question": "Certains mois ont 31 jours, d'autres en ont 30. Mais combien en contientent 28",
+        "reponse": "12",
+        "explication": ""
+    },
+    {
+        "index" : 6,
+        "question": "On me trouve chez l'homme mais pas chez la femme, dans une tomate mais pas dans une banane, dans un avion mais pas dans un bateau. Qui suis-je ?",
+        "reponse": "O",
+        "explication": ""
+    },
+    {
+        "index" : 7,
+        "question": "Il y a deux maisons séparées d'une ligne jaune. Sur cette ligne il y a un coq. Combien d'oeufs ce coq a t-il pondu ?",
+        "reponse": "0",
+        "explication": ""
+    },
+    {
+        "index" : 8,
+        "question": "Je peux être plus grznde que la Tour Eiffel et plus legere qu'une plume. Qui suis-je ?",
+        "reponse": "l'ombre",
+        "explication": ""
+    },
+    {
+        "index" : 9,
+        "question": "Je suis toujours mouillé, mais je ne suis jamais dans l'eau. J'habite dans un palais qui n'est pas le mien. Qui suis je ?",
+        "reponse": "la langue",
+        "explication": ""
+    },
+    {
+        "index" : 10,
+        "question": "J'ai une gorge mais je ne peux pas parler, je coule mais ne me noie pas, j'ai un lit mais je ne dors jamais. Qui suis-je ?",
+        "reponse": "la rivière",
+        "explication": ""
+    },
+    {
+        "index" : 11,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 12,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 13,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 14,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 15,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 16,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 17,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 18,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 19,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 20,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 21,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 22,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 23,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 24,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 25,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 26,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 27,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 28,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 29,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 30,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 31,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 32,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 33,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 34,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 35,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 36,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 37,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 38,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 39,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    },
+    {
+        "index" : 40,
+        "question": "",
+        "reponse": "",
+        "explication": ""
+    }
+]
+
+
+
 
 
 
