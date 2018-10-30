@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 import './App.css';
 import Background from './components/Background';
+import ChampsSaisie from './components/ChampsSaisie';
 
 
 class App extends Component {
@@ -10,7 +11,7 @@ class App extends Component {
       <div className="App">
 
         <Background />
-
+        <ChampsSaisie />
       </div>
     );
   }
