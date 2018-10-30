@@ -27,3 +27,8 @@ svg{
     height: 1px;
     overflow: visible;
 }
+
+.spider {
+    
+    background-image: url('../img/spider.svg');
+}
