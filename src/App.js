@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import Spider from './components/Spider'
+
 import './App.css';
 import Background from './components/Background';
 import ChampsSaisie from './components/ChampsSaisie';
@@ -14,6 +16,8 @@ class App extends Component {
       <div className="App">
 
         <Background />
+        <Spider />
+
         <Devinettes />
         
         <ChampsSaisie />
