@@ -1,52 +1,52 @@
 {
     "index" : 1,
-    "question": "",
-    "reponse": ""
+    "question": "Je suis toujours devant tout le monde, mais personne ne peut me voir. Qui suis-j?",
+    "reponse": "l avenir"
 };
 {
     "index" : 2,
-    "question": "",
-    "reponse": ""
+    "question": "J'ai 48 ans mais j'ai fêté mon anniversaire que 12 fois pourquoi ?",
+    "reponse": "29 février"
 };
 {
     "index" : 3,
-    "question": "",
-    "reponse": ""
+    "question": "Plus j'enleve, plus il grandit",
+    "reponse": "un trou" // car plus j'enleve de la terre plus le trou devient grand
 };
 {
     "index" : 4,
-    "question": "",
-    "reponse": ""
+    "question": "Quelle est la lettre suivante de cette suite (J F M A M J J A S O)",
+    "reponse": "N" // la suite represente la premiere lettre des mois de l'année
 };
 {
     "index" : 5,
-    "question": "",
+    "question": "Certains mois ont 31 jours, d'autres en ont 30. Mais combien en contientent 28",
     "reponse": ""
 };
 {
     "index" : 6,
-    "question": "",
-    "reponse": ""
+    "question": "On me trouve chez l'homme mais pas chez la femme, dans une tomate mais pas dans une banane, dans un avion mais pas dans un bateau. Qui suis-je ?",
+    "reponse": "O"
 };
 {
     "index" : 7,
-    "question": "",
-    "reponse": ""
+    "question": "Il y a deux maisons séparées d'une ligne jaune. Sur cette ligne il y a un coq. Combien d'oeufs ce coq a t-il pondu ?",
+    "reponse": "0"
 };
 {
     "index" : 8,
-    "question": "",
-    "reponse": ""
+    "question": "Je peux être plus grznde que la Tour Eiffel et plus legere qu'une plume. Qui suis-je ?",
+    "reponse": "l'ombre"
 };
 {
     "index" : 9,
-    "question": "",
-    "reponse": ""
+    "question": "Je suis toujours mouillé, mais je ne suis jamais dans l'eau. J'habite dans un palais qui n'est pas le mien. Qui suis je ?",
+    "reponse": "la langue"
 };
 {
     "index" : 10,
-    "question": "",
-    "reponse": ""
+    "question": "J'ai une gorge mais je ne peux pas parler, je coule mais ne me noie pas, j'ai un lit mais je ne dors jamais. Qui suis-je ?",
+    "reponse": "la rivière"
 };
 {
     "index" : 11,
