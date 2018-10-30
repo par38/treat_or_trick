@@ -4,9 +4,12 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.3.2",
+    "array-shuffle": "^1.0.1",
+    "lodash.shuffle": "^4.2.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.1.0"
+    "react-scripts": "2.1.0",
+    "shuffle": "^0.2.2"
   },
   "scripts": {
     "start": "react-scripts start",
