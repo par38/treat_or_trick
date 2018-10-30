@@ -1,7 +1,11 @@
 import React, {Component} from 'react';
 
+import './ChampsSaisie.css'
+import Devinettes from './Devinettes.json';
+
 class ChampsSaisie extends Component {
     state = {
+
 
     }
 
@@ -9,6 +13,7 @@ class ChampsSaisie extends Component {
         return(
             <div>
                 
+                <input className="style" value={Devinettes.reponse}type="text" name="La reponse"></input>
             </div>
         )
 

@@ -21,10 +21,7 @@ class Questions extends Component {
         this.autreQuestion();
     }
 
-
-
     autreQuestion = e => {
-
         this.setState(aleatoire[this.state.index]);
         this.setState(prevState => ({index: prevState.index +1}));
     }
