@@ -8,7 +8,7 @@ class BoutonReponse extends Component {
     render() {
         return(
             <div>
-
+                <button>Répondre</button>
             </div>
         )
 
