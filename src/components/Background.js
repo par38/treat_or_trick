@@ -6,7 +6,7 @@ import photo from '../img/photo.jpg';
 const Background = () => {
     return (
        <div >
-           <img className="fond" src= {photo} alt="image de fond avec une citrouille"/>
+           <img className="fond" src= {photo} alt=" fond avec une citrouille"/>
        </div> 
     )
 }
