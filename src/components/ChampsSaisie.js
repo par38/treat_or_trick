@@ -12,6 +12,7 @@ class ChampsSaisie extends Component {
     render() {
         return(
             <div>
+                
                 <input className="style" value={Devinettes.reponse}type="text" name="La reponse"></input>
             </div>
         )
