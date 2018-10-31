@@ -5,6 +5,7 @@ import Spider from './components/Spider'
 import Background from './components/Background';
 import ChampsSaisie from './components/ChampsSaisie';
 import Devinettes from './components/Devinettes';
+import BoutonReponse from './components/BoutonReponse'
 
 import './App.css';
 
@@ -18,8 +19,10 @@ class App extends Component {
         <Background />
         <Devinettes />
         <ChampsSaisie />
-        <div><Spider /></div>
         
+        <BoutonReponse />
+        <div><Spider /></div>
+
       </div>
     );
   }

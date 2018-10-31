@@ -1,0 +1,22 @@
+.forme {
+    background: none;
+    border-radius: 20%;
+    border: none;
+    box-shadow: 2px 2px 35px #FF8018;
+    color: #FF8018 ;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+
+@font-face{
+    font-family: 'police';
+    src: url(police.ttf)
+}
+
+h1{
+    font-family: police;
+}
+
+
+
