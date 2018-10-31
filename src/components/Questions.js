@@ -3,10 +3,10 @@ import React, {
 } from 'react';
 import shuffle from 'lodash.shuffle';
 
-import Devinettes from './Devinettes.json';
+import BlocQuestion from './BlocQuestion.json';
 
 // console.log(Devinettes);
-const aleatoire = shuffle(Devinettes);
+const aleatoire = shuffle(BlocQuestion);
 // console.log(shuffle(Devinettes));
 console.log(aleatoire[0]);
 
