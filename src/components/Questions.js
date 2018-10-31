@@ -5,6 +5,8 @@ import shuffle from 'lodash.shuffle';
 
 import Devinettes from './Devinettes.json';
 
+import './Questions.css'
+
 // console.log(Devinettes);
 const aleatoire = shuffle(Devinettes);
 // console.log(shuffle(Devinettes));
@@ -31,9 +33,9 @@ class Questions extends Component {
 
         return ( 
             <div className = "Questions">
-                <p>
+                <h2 className= "QuestionsH2">
                     {this.state.question}
-                </p>
+                </h2>
                 <button onClick = {
                 e => this.autreQuestion(e)
             } > Prochaine question !! </button>
