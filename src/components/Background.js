@@ -5,7 +5,7 @@ import bkg from '../img/bkg.jpg';
 
 const Background = () => {
     return (
-       <div >
+       <div className="bkg">
            <img className="fond" src= {bkg} alt=" fond avec une citrouille"/>
        </div> 
     )
