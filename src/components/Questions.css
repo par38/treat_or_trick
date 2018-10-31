@@ -13,10 +13,22 @@
          url('../fonts/dragonbonesBB/dragonbonesbb_reg.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    
 }
 
 .QuestionsH2 {
     color: white;
     font-family: 'dragonbones_bbregular';
     font-size: 4vw;
+}
+
+.forme {
+    background: none;
+    border-radius: 20%;
+    border: none;
+    box-shadow: 2px 2px 35px #FF8018;
+    color: #FF8018 ;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: 
 }
