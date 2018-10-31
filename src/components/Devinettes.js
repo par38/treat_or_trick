@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import Modal from 'react-modal'
 
-import BlocQuestion from './Devinettes.json';
-import './Devinettes.css';
-
+import BlocQuestion from './BlocQuestion.json';
 import NextQuestion from './NextQuestion';
 import BoutonLangue from './BoutonLangue';
 
-class Question extends Component {
+import './Devinettes.css';
+
+class Devinettes extends Component {
     state = {
         index: 0,
         Quiz: BlocQuestion,
@@ -48,4 +48,4 @@ class Question extends Component {
         );
     }
 }
-export default Question;
+export default Devinettes;
