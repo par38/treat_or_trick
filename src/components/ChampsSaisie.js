@@ -8,13 +8,25 @@ import './ChampsSaisie.css'
 class ChampsSaisie extends Component {
     state = {
 
+        reponse: ""
+
 
     }
+
+    handleOnChange = (e) => {
+        this.setState({
+               [e.target.name]:e.target.value
+        })
+    }
+
 
     render() {
         return(
             <div>
-                <input className="style" value={BlocQuestion.reponse}type="text" name="La reponse"></input>
+                <form onSubmit=''>
+                <input className="style" onChange={this.handleOnChange} value={this.state.reponse}type="text" name="reponse" placeholder='entrez votre reponse'></input>
+                {console.log(BlocQuestion.reponse)}
+                </form>
             </div>
         )
 
