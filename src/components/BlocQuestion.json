@@ -119,6 +119,24 @@
         "reponse": "Tu souhaites que ce soit l’Halloween!",
         "explication": "Tu souhaites que ce soit l’Halloween!"
     }
+    {
+        "index" : 21,
+        "question": "Quelle est la suite logique : Bé Tau Gé Can Li",
+        "reponse": "Ba Scor Sa Ca Ver Poi",
+        "explication": "Se sont les signes du zodiac : Bélier Taureau Gémeau Cancert Lion Vierge Balance Scorpion Sagitaire Capriconne Verseau Poisson"
+    }
+    {
+        "index" : 22,
+        "question": "J'adore le poulet, variablement à toute les sauces, qui suis-je ?",
+        "reponse": "Abdou",
+        "explication": "Ouais, là tu mettre mettre props, OU POULET !"
+    }
+    {
+        "index" : 23,
+        "question": "Qu'est ce qui est jaune et qui attend ?",
+        "reponse": "C'est Jonathan !",
+        "explication": "Jaune - Attend"
+    }
 ]
 
 
