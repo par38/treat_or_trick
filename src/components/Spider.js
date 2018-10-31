@@ -38,7 +38,7 @@ class Spider extends Component {
       return (
 
 
-            <div id="container">
+            <div id="container-spider">
   <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMin slice" viewBox="0 0 400 400">
     {/* <!-- Motion path --> */}
     <path id="trajet-araignee" fill="none" stroke="black" stroke-width="0" d="M150 0s0 400 1-400"/>

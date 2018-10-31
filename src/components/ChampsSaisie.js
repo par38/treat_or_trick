@@ -14,7 +14,7 @@ class ChampsSaisie extends Component {
     render() {
         return(
             <div>
-                <input className="style" value={BlocQuestion.reponse} type="text" name="La reponse"></input>
+                <input className="style" value={BlocQuestion.reponse}type="text" name="La reponse"></input>
             </div>
         )
 
