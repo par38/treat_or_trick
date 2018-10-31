@@ -1,12 +1,12 @@
 import React from 'react'
 
 import './Background.css';
-import photo from '../img/photo.jpg';
+import bkg from '../img/bkg.jpg';
 
 const Background = () => {
     return (
        <div >
-           <img className="fond" src= {photo} alt=" fond avec une citrouille"/>
+           <img className="fond" src= {bkg} alt=" fond avec une citrouille"/>
        </div> 
     )
 }

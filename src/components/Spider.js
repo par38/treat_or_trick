@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-//import spider from '../img/spider.svg';
+
 import './Spider.css';
+
 
 const style = { // modifie la couleur des pattes de l'araignée
     fill: "rgb(143,95,168)",
