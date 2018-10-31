@@ -37,12 +37,12 @@ class Spider extends Component {
       return (
 
 
-            <div id="container">
+            <div id="containerSpider">
   <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMin slice" viewBox="0 0 400 400">
     {/* <!-- Motion path --> */}
     <path id="trajet-araignee" fill="none" stroke="black" stroke-width="0" d="M150 0s0 400 1-400"/>
     
-    <svg width="100%" height="100%" viewBox="0 0  70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" xmlSpace="preserve" xmlnsSerif="http://www.serif.com/" style={style5}>
+    <svg width="100%" height="100%" viewBox="0 0  70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" xmlSpace="preserve" xmlnsserif="http://www.serif.com/" style={style5}>
     <g transform="matrix(0.183947,0,0,0.183947,-8.83124e-05,-2.02353) translate(-100,20) scale(0.5)">
          <animateMotion dur="7s" repeatCount="indefinite">
         <mpath xlinkHref="#trajet-araignee"/>
