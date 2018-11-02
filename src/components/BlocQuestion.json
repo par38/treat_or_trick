@@ -43,7 +43,7 @@
     },
     {
         "index" : 8,
-        "question": "Je peux être plus grznde que la Tour Eiffel et plus legere qu'une plume. Qui suis-je ?",
+        "question": "Je peux être plus grande que la Tour Eiffel et plus legere qu'une plume. Qui suis-je ?",
         "reponse": "l'ombre",
         "explication": ""
     },
@@ -110,29 +110,23 @@
     {
         "index" : 19,
         "question": "Qui sont les fantômes les plus élégants?",
-        "reponse": "Ceux qui sont dans de beaux draps!",
-        "explication": "Ceux qui sont dans de beaux draps!"
+        "reponse": "Ceux qui sont dans de beaux draps",
+        "explication": "Ceux qui sont dans de beaux draps"
     },
     {
         "index" : 20,
         "question": "Si tu te retrouves à côté de Dracula, d’un squelette, d’un fantôme et d’une sorcière, qu’est-ce que tu souhaites?",
-        "reponse": "Tu souhaites que ce soit l’Halloween!",
-        "explication": "Tu souhaites que ce soit l’Halloween!"
-    }
+        "reponse": "Tu souhaites que ce soit l’Halloween",
+        "explication": "Tu souhaites que ce soit l’Halloween"
+    },
     {
         "index" : 21,
-        "question": "Quelle est la suite logique : Bé Tau Gé Can Li",
-        "reponse": "Ba Scor Sa Ca Ver Poi",
-        "explication": "Se sont les signes du zodiac : Bélier Taureau Gémeau Cancert Lion Vierge Balance Scorpion Sagitaire Capriconne Verseau Poisson"
-    }
-    {
-        "index" : 22,
-        "question": "J'adore le poulet, variablement à toute les sauces, qui suis-je ?",
+        "question": "J'adore le poulet, variablement à toutes les sauces, qui suis-je ?",
         "reponse": "Abdou",
         "explication": "Ouais, là tu mettre mettre props, OU POULET !"
-    }
+    },
     {
-        "index" : 23,
+        "index" : 22,
         "question": "Qu'est ce qui est jaune et qui attend ?",
         "reponse": "C'est Jonathan !",
         "explication": "Jaune - Attend"
